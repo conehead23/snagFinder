@@ -3,12 +3,10 @@
 - Locates snags, corn, and onions
 - Finds shortest path between each object
 
-## Libraries Needed
-- cv2
-- numpy
-
 ## How to use
-- Clone git, run V5.py
+- Clone git,
+- Install cv2 and numpy
+- run V5.py
 
 ## Upcoming Feature
 - GUI
