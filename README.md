@@ -7,6 +7,7 @@
 - Clone git,
 - Install cv2 and numpy
 - run V5.py
+- run V4 to get HSV color thresholds
 
 ## Upcoming Feature
 - GUI
